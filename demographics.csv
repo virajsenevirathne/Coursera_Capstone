@@ -1,0 +1,173 @@
+Neighbourhood,Municipality,Population,LandArea,Density,PopulationChange,AvgIncome,Commuting,Renters,SecondLng,SecondLngPct
+Crescent Town,East York,8157.0,0.4,20393.0,-10.0,23021.0,24.5,20.3,Bengali ,18.1
+Governor's Bridge/Bennington Heights,East York,2112.0,1.87,1129.0,4.0,129904.0,7.1,13.3,Polish ,1.4
+Leaside,East York,13876.0,2.81,4938.0,3.0,82670.0,9.7,10.5,Bulgarian ,0.4
+O'Connor–Parkview,East York,17740.0,4.94,3591.0,-6.1,33517.0,15.8,19.4,Urdu ,3.2
+Old East York,East York,52220.0,7.94,6577.0,-4.6,33172.0,22.0,19.1,Greek ,4.3
+Thorncliffe Park,East York,17949.0,3.09,5809.0,9.1,25340.0,16.7,32.5,Urdu ,21.5
+Alderwood,Etobicoke,11656.0,4.94,2360.0,-4.0,35239.0,8.8,8.5,Polish ,6.2
+Centennial,Etobicoke,12565.0,4.94,2544.0,0.5,34867.0,11.5,8.8,Polish ,2.7
+Clairville,Etobicoke,8506.0,6.71,1268.0,-3.3,26610.0,13.2,7.2,Punjabi ,12.0
+Eatonville,Etobicoke,19131.0,11.26,1699.0,4.3,36206.0,12.6,13.4,Serbian ,3.2
+Humber Bay Shores,Etobicoke,10775.0,1.42,7588.0,-5.7,39186.0,15.7,31.6,Russian ,5.2
+Humber Heights,Etobicoke,4674.0,1.69,2766.0,8.3,39738.0,10.1,9.7,Spanish ,4.1
+Humberwood,Etobicoke,7319.0,17.4,421.0,8.0,29576.0,7.9,7.0,Punjabi ,26.7
+Humber Valley Village,Etobicoke,14453.0,5.45,2652.0,-0.1,80618.0,12.0,17.8,Ukrainian ,3.9
+Islington – Six Points,Etobicoke,16508.0,4.02,4106.0,3.7,43570.0,17.1,22.2,Korean ,4.9
+Kingsview Village,Etobicoke,16254.0,4.05,4013.0,-6.2,32004.0,11.8,14.6,Somali ,7.0
+Long Branch,Etobicoke,9625.0,2.22,4336.0,-7.4,37288.0,14.2,23.0,Polish ,4.5
+Markland Wood,Etobicoke,10240.0,2.92,3507.0,1.0,51695.0,9.2,9.7,Polish ,3.4
+Mimico,Etobicoke,14198.0,5.4,2629.0,15.4,47011.0,11.6,15.5,Polish ,3.6
+New Toronto,Etobicoke,10455.0,2.71,3858.0,-5.8,33415.0,13.0,25.6,Polish ,4.6
+Princess Gardens,Etobicoke,9288.0,4.13,2249.0,1.0,80607.0,7.2,5.8,Korean ,2.4
+Agincourt,Scarborough,44577.0,12.45,3580.0,4.6,25750.0,11.1,5.9,Cantonese ,19.3
+Alexandra Park,Old City of Toronto,4355.0,0.32,13609.0,0.0,19687.0,13.8,28.0,Cantonese ,17.9
+Allenby,Old City of Toronto,2513.0,0.58,4333.0,-1.0,245592.0,5.2,3.4,Russian ,1.4
+Amesbury,North York,17318.0,3.51,4934.0,1.1,27546.0,16.4,19.7,Spanish ,6.1
+Armour Heights,North York,4384.0,2.29,1914.0,2.0,116651.0,10.8,16.1,Russian ,9.4
+Banbury,North York,6641.0,2.72,2442.0,5.0,92319.0,6.1,4.8,Unspecified Chinese ,5.1
+Bathurst Manor,North York,14945.0,4.69,3187.0,12.3,34169.0,13.4,18.6,Russian ,9.5
+Bay Street Corridor,Old City of Toronto,4787.0,0.11,43518.0,3.0,40598.0,17.1,49.3,Mandarin ,9.6
+Bayview Village,North York,12280.0,4.14,2966.0,41.6,46752.0,14.4,15.6,Cantonese ,8.4
+Bayview Woods – Steeles,North York,13298.0,4.07,3267.0,-1.5,41485.0,11.2,13.9,Cantonese ,9.3
+Bedford Park,Old City of Toronto,13749.0,2.27,6057.0,-1.4,80827.0,15.2,10.1,Greek ,0.7
+Bendale,Scarborough,28945.0,8.49,3409.0,12.9,29723.0,13.0,10.4,Tamil ,3.7
+Birch Cliff,Scarborough,12266.0,3.48,3525.0,-3.0,48965.0,11.4,15.2,Unspecified Chinese ,0.9
+Bloor West Village,Old City of Toronto,5175.0,0.74,6993.0,-2.0,55578.0,20.7,8.3,Ukrainian ,3.6
+Bracondale Hill,Old City of Toronto,5343.0,0.62,8618.0,-3.0,41605.0,18.2,24.2,Greek ,4.8
+Branson,North York,8017.0,1.25,6414.0,-3.8,27156.0,18.0,27.2,Russian ,24.1
+Bridle Path,North York,1540.0,3.46,445.0,11.0,314107.0,7.1,2.3,Cantonese ,12.0
+Brockton,Old City of Toronto,9039.0,1.1,8217.0,-9.5,27260.0,22.3,17.3,Portuguese ,19.9
+Cabbagetown,Old City of Toronto,11120.0,1.4,7943.0,5.3,50398.0,18.5,29.6,Unspecified Chinese ,1.6
+Caribou Park,North York,4097.0,1.02,4017.0,-2.0,103703.0,8.4,7.6,Tagalog ,2.9
+Carleton Village,Old City of Toronto,6544.0,0.74,8843.0,-4.0,23301.0,19.0,19.9,Portuguese ,17.0
+Casa Loma,Old City of Toronto,3597.0,0.67,5369.0,23.0,82203.0,18.1,32.9,Korean ,1.8
+Chaplin Estates,Old City of Toronto,4906.0,0.93,5275.0,1.0,81288.0,22.7,24.5,French ,1.2
+Christie Pits,Old City of Toronto,5124.0,0.64,8006.0,-5.0,30556.0,18.8,15.3,Portuguese ,11.9
+Church and Wellesley,Old City of Toronto,13397.0,0.55,24358.0,8.8,37653.0,25.1,57.0,Spanish ,1.8
+Clairlea,Scarborough,11104.0,3.58,3102.0,1.8,33392.0,18.1,12.7,Filipino ,4.3
+Cliffcrest,Scarborough,14531.0,7.01,2073.0,-2.9,38182.0,12.5,12.2,Tamil ,1.5
+Cliffside,Scarborough,9386.0,2.45,3831.0,-6.3,32701.0,14.8,11.4,Cantonese ,2.3
+Corktown,Old City of Toronto,4484.0,0.67,6693.0,77.0,54681.0,15.5,17.6,Spanish ,2.1
+Cricket Club,North York,5504.0,1.96,2808.0,3.0,104362.0,8.7,15.4,Filipino ,1.4
+Davenport,Old City of Toronto,8781.0,0.99,8870.0,-6.9,28335.0,19.8,18.2,Portuguese ,17.1
+Davisville,Old City of Toronto,23727.0,3.14,7556.0,4.5,55735.0,26.0,31.7,Persian ,1.5
+Deer Park,Old City of Toronto,15165.0,1.46,10387.0,5.2,80704.0,26.4,41.3,Russian ,1.1
+Discovery District,Old City of Toronto,7262.0,0.66,6998.0,8.0,41998.0,12.7,32.1,Unspecified Chinese ,6.5
+Distillery District/West Don Lands,Old City of Toronto,6378.0,1.33,4795.0,-1.0,40617.0,19.5,37.5,French ,2.5
+Don Mills,North York,21372.0,8.99,2377.0,11.9,47515.0,10.8,18.6,Unspecified Chinese ,3.9
+Don Valley Village,North York,29740.0,5.16,5764.0,-1.3,30442.0,17.1,16.6,Unspecified Chinese ,9.7
+Dorset Park,Scarborough,14189.0,4.26,3331.0,7.8,26525.0,15.2,9.6,Tamil ,9.5
+Dovercourt Park,Old City of Toronto,8497.0,0.87,9767.0,-9.2,28311.0,21.9,15.1,Portuguese ,13.1
+Downsview,North York,36613.0,16.13,2270.0,-5.0,26751.0,14.4,18.3,Italian ,11.7
+Dufferin Grove,Old City of Toronto,9875.0,0.99,9975.0,-7.1,27961.0,23.8,28.4,Portuguese ,15.2
+Earlscourt,Old City of Toronto,17240.0,2.24,7696.0,-1.7,26672.0,17.7,8.5,Portuguese ,18.9
+East Danforth,Old City of Toronto,21440.0,2.5,8576.0,-6.3,33847.0,24.2,18.3,Cantonese ,4.2
+Eglinton East,Scarborough,22387.0,3.23,6931.0,-1.0,25307.0,19.4,19.1,Tamil ,9.7
+Elia (Jane and Finch),North York,48003.0,7.66,6267.0,-10.0,22691.0,13.0,18.8,Vietnamese ,6.9
+Fashion District,Old City of Toronto,4642.0,0.98,4737.0,123.0,63282.0,15.5,26.2,Portuguese ,1.1
+Financial District,Old City of Toronto,548.0,0.47,1166.0,6.0,63952.0,18.2,17.3,Japanese ,1.8
+Flemingdon Park,North York,21287.0,2.43,8760.0,-6.0,23471.0,16.6,19.6,Urdu ,6.3
+Forest Hill,Old City of Toronto,24056.0,4.35,5530.0,-0.2,101631.0,14.8,21.9,Russian ,2.4
+Fort York/Liberty Village,Old City of Toronto,3821.0,2.13,1794.0,126.0,46086.0,22.8,27.9,Hindi ,1.7
+Garden District,Old City of Toronto,8240.0,0.52,15846.0,17.0,37614.0,17.0,35.5,Unspecified Chinese ,3.0
+Glen Park,North York,18426.0,4.13,4462.0,4.4,35022.0,13.6,17.0,Italian ,9.3
+Grange Park,Old City of Toronto,9007.0,0.84,10793.0,-1.0,35277.0,13.3,35.6,Unspecified Chinese ,14.8
+Graydon Hall,North York,4714.0,0.71,6639.0,-15.0,23350.0,15.6,35.2,Persian ,11.8
+Guildwood,Scarborough,12820.0,4.77,2688.0,-2.0,40806.0,11.6,8.0,Persian ,1.2
+Harbord Village,Old City of Toronto,5906.0,0.64,9228.0,2.4,45792.0,16.8,24.0,Portuguese ,4.1
+Harbourfront / CityPlace,Old City of Toronto,14368.0,1.87,9228.0,94.3,69232.0,16.0,31.3,Unspecified Chinese ,2.4
+Harwood,York,3375.0,0.78,4327.0,0.0,22136.0,12.3,17.8,Portuguese ,19.0
+Henry Farm,North York,2790.0,0.91,3066.0,-6.0,56395.0,15.6,15.9,Mandarin ,3.9
+High Park North,Old City of Toronto,22746.0,2.18,10434.0,-1.6,46437.0,27.5,32.8,Polish ,3.0
+Highland Creek,Scarborough,12853.0,5.13,2505.0,-0.1,33640.0,9.7,1.8,Tamil ,5.1
+Hillcrest,North York,18327.0,5.35,3426.0,-0.4,33465.0,12.0,8.0,Unspecified Chinese ,13.9
+Hoggs Hollow,North York,3123.0,2.76,1132.0,2.0,222560.0,4.3,2.9,Unspecified Chinese ,2.4
+Humber Summit,North York,12766.0,7.89,1618.0,2.1,26117.0,7.3,7.6,Italian ,15.1
+Humberlea,North York,4327.0,2.0,2164.0,-2.0,30907.0,8.7,7.9,Italian ,11.1
+Humbermede,North York,14778.0,4.35,3397.0,1.1,24297.0,11.8,14.6,Punjabi ,9.7
+Humewood–Cedarvale,York,27515.0,3.19,8624.0,-7.8,40404.0,24.2,26.0,Spanish ,3.6
+Ionview,Scarborough,13025.0,1.94,6714.0,-4.0,25078.0,21.1,22.5,Filipino ,6.5
+Junction Triangle,Old City of Toronto,6666.0,0.72,9258.0,-6.0,28067.0,20.0,18.8,Portuguese ,13.0
+Kensington Market,Old City of Toronto,3740.0,0.36,10389.0,3.0,23335.0,15.0,25.1,Cantonese ,14.3
+Lambton,York,9654.0,2.74,3523.0,-3.2,30920.0,14.2,15.9,Portuguese ,3.9
+L'Amoreaux,Scarborough,45862.0,7.15,6414.0,0.9,26375.0,13.4,11.4,Unspecified Chinese ,13.9
+Lansing,North York,10052.0,3.06,3285.0,35.0,46631.0,18.7,17.0,Persian ,4.7
+Lawrence Heights,North York,3769.0,3.2,1178.0,15.0,29867.0,15.0,13.9,Italian ,15.0
+Lawrence Manor,North York,13750.0,2.14,6425.0,7.4,36361.0,15.9,23.8,Filipino ,7.2
+Lawrence Park,Old City of Toronto,6653.0,3.64,1828.0,-5.1,214110.0,8.3,4.6,French ,0.8
+Ledbury Park,North York,12360.0,2.5,4944.0,3.5,83853.0,9.5,12.2,Filipino ,1.4
+Leslieville,Old City of Toronto,23567.0,2.69,8761.0,-7.3,30886.0,19.9,15.4,Cantonese ,9.4
+Little Italy,Old City of Toronto,7917.0,0.81,9774.0,-6.1,31231.0,15.5,17.0,Portuguese ,17.4
+Little Portugal,Old City of Toronto,5013.0,0.49,10231.0,-10.0,29224.0,16.6,21.6,Portuguese ,23.8
+Lytton Park,Old City of Toronto,6494.0,1.28,5073.0,5.0,127356.0,15.1,12.9,Serbian ,0.9
+Malvern,Scarborough,44324.0,8.86,5003.0,1.5,25677.0,13.6,8.2,Tamil ,12.2
+Maple Leaf,North York,20313.0,4.59,4425.0,1.4,27611.0,11.8,18.8,Italian ,13.0
+Maryvale,Scarborough,8800.0,2.28,3860.0,-3.2,30944.0,12.3,11.4,Filipino ,4.1
+Milliken,Scarborough,26272.0,7.19,3654.0,-2.0,25243.0,12.3,3.9,Cantonese ,26.6
+Moore Park,Old City of Toronto,4474.0,1.13,3959.0,-2.0,154825.0,11.0,7.5,French ,1.1
+Morningside,Scarborough,11472.0,2.79,4112.0,0.3,27139.0,14.9,13.2,Tamil ,10.8
+Mount Dennis,York,21284.0,3.29,6469.0,-3.1,23910.0,18.2,19.9,Spanish ,7.3
+Newtonbrook,North York,36046.0,8.77,4110.0,0.3,33428.0,16.6,14.3,Russian ,8.8
+Niagara,Old City of Toronto,6524.0,0.55,11862.0,-4.0,44611.0,21.2,21.4,Portuguese ,4.0
+North York City Centre,North York,10427.0,0.28,37239.0,33.0,34330.0,19.0,19.5,Unspecified Chinese ,10.1
+Oakridge,Scarborough,13368.0,1.86,7187.0,-2.3,21155.0,20.8,27.1,Bengali ,12.6
+Old Mill/Baby Point,York,4010.0,1.07,3748.0,1.0,110372.0,16.1,10.7,Ukrainian ,4.1
+Parkdale,Old City of Toronto,28367.0,2.03,13974.0,-8.0,26314.0,22.2,39.0,Polish ,2.9
+Parkway Forest,North York,8498.0,1.71,4970.0,-2.8,24333.0,21.7,24.2,Unspecified Chinese ,8.5
+Parkwoods,North York,26533.0,4.96,5349.0,-3.7,34811.0,14.0,22.5,Unspecified Chinese ,3.4
+Pelmo Park,North York,4402.0,2.2,2001.0,14.0,32002.0,9.4,3.6,Italian ,6.7
+Playter Estates,Old City of Toronto,3968.0,0.5,7936.0,-2.0,44557.0,26.8,35.0,Unspecified Chinese ,1.8
+Pleasant View,North York,16615.0,3.04,5465.0,-2.1,29250.0,13.2,8.2,Unspecified Chinese ,12.7
+Port Lands,Old City of Toronto,571.0,6.1,94.0,-9.0,36243.0,14.9,10.5,Mandarin ,3.5
+Port Union,Scarborough,12450.0,5.39,2310.0,-1.7,48117.0,11.1,2.0,Filipino ,1.6
+Regal Heights,Old City of Toronto,2719.0,0.38,7155.0,-8.0,36652.0,24.5,19.7,Spanish ,5.5
+Regent Park/Trefann Court,Old City of Toronto,10387.0,0.64,16230.0,-7.1,19521.0,16.0,31.2,Bengali ,10.5
+Richview,Etobicoke,26053.0,6.51,4002.0,-4.0,34579.0,10.6,16.3,Italian ,4.2
+Riverdale,Old City of Toronto,31007.0,3.99,7771.0,-5.5,40139.0,20.0,17.8,Cantonese ,6.7
+Rockcliffe–Smythe,York,4681.0,0.97,4826.0,-5.0,28723.0,16.3,9.0,Spanish ,8.2
+Roncesvalles,Old City of Toronto,15996.0,1.98,8079.0,-4.9,46820.0,21.9,22.7,Polish ,4.4
+Rosedale,Old City of Toronto,7672.0,2.72,2821.0,4.8,213941.0,11.3,11.9,Unspecified Chinese ,1.0
+Rouge,Scarborough,22724.0,28.72,791.0,175.0,29230.0,12.1,2.7,Tamil ,15.6
+Rouge Hill,Scarborough,11167.0,3.88,2878.0,0.9,32858.0,13.5,8.6,Filipino ,2.4
+Runnymede,York,4382.0,0.85,5155.0,-3.0,42635.0,17.3,7.1,Ukrainian ,2.2
+Scarborough Junction,Scarborough,25780.0,7.41,3479.0,-3.6,25405.0,18.2,15.7,Tamil ,4.2
+Scarborough City Centre,Scarborough,16403.0,2.58,6358.0,22.9,26756.0,14.6,15.6,Tamil ,10.3
+Scarborough Village,Scarborough,12796.0,2.03,6303.0,-9.0,24413.0,16.2,22.0,Tamil ,11.4
+Seaton Village,Old City of Toronto,5259.0,0.62,8482.0,-6.0,41506.0,19.1,17.3,Portuguese ,5.0
+Silverthorn,York,17757.0,3.52,5045.0,-3.0,26291.0,15.8,16.6,Portuguese ,11.8
+Smithfield,Etobicoke,34996.0,6.45,5426.0,-7.2,24387.0,12.8,12.7,Punjabi ,11.8
+South Hill,Old City of Toronto,6218.0,1.26,4935.0,-3.8,120453.0,16.1,29.8,French ,1.0
+St. James Town,Old City of Toronto,14666.0,0.23,63765.0,-10.0,22341.0,27.4,46.2,Filipino ,8.1
+Steeles,Scarborough,24696.0,4.52,5464.0,1.9,26660.0,10.5,5.1,Cantonese ,23.7
+Summerhill,Old City of Toronto,5100.0,0.65,7846.0,3.0,88937.0,17.5,24.1,Unspecified Chinese ,1.1
+Sunnylea,Etobicoke,17602.0,5.23,3366.0,-1.1,51398.0,13.0,17.1,Polish ,5.2
+Swansea,Old City of Toronto,11133.0,3.76,2961.0,0.5,58681.0,18.3,12.8,Polish ,3.0
+Tam O'Shanter – Sullivan,Scarborough,27235.0,5.44,5006.0,3.4,27717.0,12.2,15.3,Unspecified Chinese ,12.6
+The Annex,Old City of Toronto,15602.0,1.47,10614.0,-2.3,63636.0,22.1,41.9,Spanish ,1.3
+The Beaches,Old City of Toronto,20416.0,3.57,5719.0,7.8,67536.0,13.8,16.2,Cantonese ,0.7
+The Danforth,Old City of Toronto,7849.0,0.87,9022.0,-1.0,44979.0,23.3,19.0,Greek ,7.4
+The Elms,Etobicoke,9437.0,2.86,3300.0,-3.3,28014.0,12.6,13.7,Spanish ,6.1
+The Junction,Old City of Toronto,11391.0,2.36,4827.0,22.8,34906.0,18.0,17.0,Portuguese ,4.1
+The Kingsway,Etobicoke,8780.0,2.58,3403.0,7.9,110944.0,11.8,6.2,Ukrainian ,1.8
+The Queensway,Etobicoke,6207.0,2.62,2369.0,3.0,38944.0,12.9,9.0,Italian ,4.1
+Thistletown,Etobicoke,16790.0,3.97,4229.0,1.4,28955.0,11.2,13.7,Punjabi ,8.6
+Toronto Islands,Old City of Toronto,627.0,3.17,198.0,-5.0,43344.0,18.3,5.6,None ,0.0
+Trinity–Bellwoods,Old City of Toronto,8687.0,0.92,9442.0,-3.1,31106.0,17.7,16.5,Portuguese ,13.6
+Upper Beaches,Old City of Toronto,19830.0,2.92,6791.0,0.5,44346.0,18.6,17.4,Cantonese ,0.7
+Victoria Village,North York,17047.0,4.72,3612.0,2.5,29657.0,15.6,23.4,Urdu ,3.2
+Wallace Emerson,Old City of Toronto,10338.0,0.88,11748.0,-1.8,25029.0,22.8,23.0,Portuguese ,19.2
+West Deane Park,Etobicoke,4395.0,2.13,2063.0,1.0,41582.0,8.3,4.9,Ukrainian ,2.3
+West Hill,Scarborough,25632.0,9.58,2676.0,-4.1,27936.0,14.6,14.7,Tamil ,3.0
+West Rouge,Scarborough,9300.0,4.45,2090.0,-1.8,44605.0,14.1,0.8,Cantonese ,2.8
+Westminster,North York,16386.0,2.37,6914.0,0.8,27826.0,14.6,23.4,Russian ,31.4
+Westmount,Etobicoke,5857.0,1.04,5932.0,5.0,35183.0,9.6,23.4,Ukrainian ,10.6
+Weston,York,16476.0,2.51,6564.0,-5.6,27446.0,15.5,26.5,Spanish ,7.0
+Wexford,Scarborough,17844.0,7.97,2239.0,-3.2,28556.0,14.0,15.1,Filipino ,4.5
+Willowdale,North York,43144.0,7.68,5618.0,62.3,39895.0,15.6,12.9,Cantonese ,7.9
+Wilson Heights,North York,13732.0,4.14,3317.0,1.9,37978.0,15.9,18.0,Filipino ,6.2
+Woburn,Scarborough,48507.0,13.34,3636.0,-1.5,26190.0,13.3,16.0,Gujarati ,9.1
+Wychwood,Old City of Toronto,4182.0,0.68,6150.0,-2.0,53613.0,17.1,20.1,Portuguese ,2.7
+York Mills,North York,17564.0,7.29,2409.0,2.0,92099.0,10.0,11.8,Korean ,4.0
+York University Heights,North York,26140.0,13.21,1979.0,-1.2,24432.0,15.2,20.4,Italian ,6.6
+Yorkville,Old City of Toronto,6045.0,0.56,10795.0,62.6,105239.0,18.3,27.9,French ,1.9
